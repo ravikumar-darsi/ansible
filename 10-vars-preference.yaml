@@ -1,7 +1,6 @@
 ---
 - name: variables from PLAY Level
   hosts: localhost
-
   vars_files:
     - variables.yaml
   vars_prompt:
