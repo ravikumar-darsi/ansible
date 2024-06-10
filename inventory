@@ -1,9 +1,0 @@
-[web]
-174.129.48.148
-
-[localhost]
-localhost
-[localhost:vars]
-Course="DevOps from Inventory"
-Trainee="Ravikumar"
-Duration="110Hrs"
