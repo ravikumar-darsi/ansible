@@ -15,3 +15,5 @@
         msg: "Hello AWS"
       tags:
         - aws
+# ansible-playbook -t aws 16-tags.yaml
+# only the aws play will only execute
